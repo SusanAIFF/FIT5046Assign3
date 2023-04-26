@@ -59,4 +59,5 @@
             android:text="@string/sign_up"
             android:textColor="@color/white" />
     </LinearLayout>
+<!--    ？-->
 </LinearLayout>
